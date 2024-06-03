@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm currently studying Python and C#!
+I'm also a big Studio Ghibli fan and interested in Video Game Art & Devlopment :pencil2: :video_game:
 
 
 
